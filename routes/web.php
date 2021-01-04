@@ -23,6 +23,11 @@ Route::get('/about', function () {
 });
 
 
+Route::get('/admin/home', function () {
+    return "this is admin home";
+})->name('admin.home');
+
+
 Route::get('/post/{id}', function ($id) {
     return "This is post number " . $id;
 });
