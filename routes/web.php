@@ -21,3 +21,8 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return 'Hi about page';
 });
+
+
+Route::get('/post/{id}', function ($id) {
+    return "This is post number " . $id;
+});
