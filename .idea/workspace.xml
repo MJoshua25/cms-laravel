@@ -177,7 +177,7 @@
       <updated>1609803524629</updated>
       <workItem from="1609803526900" duration="2236000" />
       <workItem from="1609889806844" duration="13000" />
-      <workItem from="1610075514806" duration="1090000" />
+      <workItem from="1610075514806" duration="1478000" />
     </task>
     <task id="LOCAL-00001" summary="first custom route">
       <created>1609803954566</created>
@@ -235,7 +235,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610076612742</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="passing data">
+      <created>1610076772417</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610076772417</updated>
+    </task>
+    <task id="LOCAL-00010" summary="passing data and normal controller">
+      <created>1610076887143</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610076887143</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
