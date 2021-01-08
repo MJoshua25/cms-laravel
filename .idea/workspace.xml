@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="comment code">
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="use ressource route for using PostsController">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,7 @@
       <updated>1609803524629</updated>
       <workItem from="1609803526900" duration="2236000" />
       <workItem from="1609889806844" duration="13000" />
-      <workItem from="1610075514806" duration="1478000" />
+      <workItem from="1610075514806" duration="1937000" />
     </task>
     <task id="LOCAL-00001" summary="first custom route">
       <created>1609803954566</created>
@@ -247,7 +247,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610076887143</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="comment code">
+      <created>1610077018560</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610077018560</updated>
+    </task>
+    <task id="LOCAL-00012" summary="use ressource route for using PostsController">
+      <created>1610077236867</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610077236867</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,7 +290,8 @@
     <MESSAGE value="passing data" />
     <MESSAGE value="passing data and normal controller" />
     <MESSAGE value="comment code" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment code" />
+    <MESSAGE value="use ressource route for using PostsController" />
+    <option name="LAST_COMMIT_MESSAGE" value="use ressource route for using PostsController" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
