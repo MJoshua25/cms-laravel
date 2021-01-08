@@ -17,17 +17,17 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
-Route::get('/about', function () {
-    return 'Hi about page';
-});
-
-
-Route::get('/admin/home', function () {
-    return "this is admin home";
-})->name('admin.home');
-
-
-Route::get('/post/{id}', function ($id) {
-    return "This is post number " . $id;
-});
+//
+//Route::get('/about', function () {
+//    return 'Hi about page';
+//});
+//
+//
+//Route::get('/admin/home', function () {
+//    return "this is admin home";
+//})->name('admin.home');
+//
+//
+//Route::get('/post/{id}', function ($id) {
+//    return "This is post number " . $id;
+//});
