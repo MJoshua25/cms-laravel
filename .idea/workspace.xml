@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="comment route">
+    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="use controller with route">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +177,7 @@
       <updated>1609803524629</updated>
       <workItem from="1609803526900" duration="2236000" />
       <workItem from="1609889806844" duration="13000" />
-      <workItem from="1610075514806" duration="776000" />
+      <workItem from="1610075514806" duration="1090000" />
     </task>
     <task id="LOCAL-00001" summary="first custom route">
       <created>1609803954566</created>
@@ -219,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610076119375</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="comment route">
+      <created>1610076315907</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610076315907</updated>
+    </task>
+    <task id="LOCAL-00008" summary="use controller with route">
+      <created>1610076612742</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610076612742</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +260,8 @@
     <MESSAGE value="create first controller" />
     <MESSAGE value="create PostsController.php using resource" />
     <MESSAGE value="comment route" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment route" />
+    <MESSAGE value="use controller with route" />
+    <option name="LAST_COMMIT_MESSAGE" value="use controller with route" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

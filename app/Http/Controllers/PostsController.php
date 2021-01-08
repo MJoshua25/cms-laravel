@@ -11,9 +11,10 @@ class PostsController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index($data)
     {
         //
+        return "it is working". $data;
     }
 
     /**
