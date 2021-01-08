@@ -33,4 +33,6 @@ Route::get('/', function () {
 //    return "This is post number " . $id;
 //});
 
-Route::get('/post/{data}', [PostsController::class, 'index']);
+Route::get('/post', [PostsController::class, 'index']);
+
+Route::get('/post/{id}', [PostsController::class, 'show']);
