@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PostsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -31,3 +32,5 @@ Route::get('/', function () {
 //Route::get('/post/{id}', function ($id) {
 //    return "This is post number " . $id;
 //});
+
+Route::get('/post', [PostsController::class, 'index']);

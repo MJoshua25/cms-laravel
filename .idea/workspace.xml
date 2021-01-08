@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="create PostsController.php using resource" />
+    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="comment route">
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +243,8 @@
     <MESSAGE value="first custom named route" />
     <MESSAGE value="create first controller" />
     <MESSAGE value="create PostsController.php using resource" />
-    <option name="LAST_COMMIT_MESSAGE" value="create PostsController.php using resource" />
+    <MESSAGE value="comment route" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment route" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
