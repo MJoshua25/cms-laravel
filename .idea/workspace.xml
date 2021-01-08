@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="use controller with route">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostsController.php" afterDir="false" />
+    <list default="true" id="23cb15b0-c380-47c9-a2a6-8a0561e0cd10" name="Default Changelist" comment="comment code">
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -275,7 +273,10 @@
     <MESSAGE value="create PostsController.php using resource" />
     <MESSAGE value="comment route" />
     <MESSAGE value="use controller with route" />
-    <option name="LAST_COMMIT_MESSAGE" value="use controller with route" />
+    <MESSAGE value="passing data" />
+    <MESSAGE value="passing data and normal controller" />
+    <MESSAGE value="comment code" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment code" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

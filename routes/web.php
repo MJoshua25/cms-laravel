@@ -37,3 +37,4 @@ Route::get('/', function () {
 //
 //Route::get('/post/{id}', [PostsController::class, 'show']);
 
+Route::resource('posts', PostsController::class);
